@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 1
+names: ['objects']
+
+roboflow:
+  workspace: timed-neiro
+  project: my-first-project-zea6z
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/timed-neiro/my-first-project-zea6z/dataset/1
