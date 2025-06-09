@@ -1,0 +1,5 @@
+train: C:/Users/SHon/Documents/neironka/yolov5/mydataset/train/images
+val: C:/Users/SHon/Documents/neironka/yolov5/mydataset/val/images
+
+nc: 3
+names: ['class1', 'class2', 'class3']
